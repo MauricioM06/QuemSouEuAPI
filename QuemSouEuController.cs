@@ -12,9 +12,9 @@ namespace QuemSouEuAPI.Controllers
         {
             PessoaModel eu = new PessoaModel();
 
-            eu.Nome = "Yaritza";
-            eu.Sobrenome = "Silva";
-            eu.UsuarioGitHub = "YaritzaSilva";
+            eu.Nome = "Maurício";
+            eu.Sobrenome = "Moura";
+            eu.UsuarioGitHub = "MauricioM06";
 
             return eu;
         }
